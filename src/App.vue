@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="container">
-    <img src="./assets/logo.png">
+    <img src="./docs/logo.png">
     <message> this site is to show my repos</message>
     <h2>Essential Links</h2>
     <ul>
