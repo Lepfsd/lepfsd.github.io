@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="container">
-    <img src="https://vuejs.org/images/logo.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Vue.js_Logo.svg/240px-Vue.js_Logo.svg.png">
     <message> this site is to show my repos</message>
     <h2>Essential Links</h2>
     <ul>
